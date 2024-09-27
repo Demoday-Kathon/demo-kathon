@@ -16,9 +16,8 @@ O Kathon é uma plataforma inovadora que conecta hackathons a jovens, com foco e
 
 ## Exploração dos Hackathons
 
-- **Funcionalidade**: Painel de hackathons disponíveis, com filtros por área de interesse, nível de dificuldade, prêmios, empresas e painel de participação individual ou me grupo.
+- **Funcionalidade**: Painel de hackathons disponíveis, com filtros por área de interesse, nível de dificuldade, prêmios, empresas e participação individual ou em grupo.
 - **Funcionalidade**: Página detalhada para cada hackathon, com a descrição do problema, requisitos, datas, prêmios e critérios de avaliação.
-- **Funcionalidade**: Opção para participar individualmente ou criar/juntar-se a um grupo.
 
 ## Preparação e Inscrição
 
