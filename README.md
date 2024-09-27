@@ -54,7 +54,9 @@ O Kathon é uma plataforma inovadora que conecta hackathons a jovens, com foco e
 
 Essa trilha foca em criar uma experiência fluida e atraente para os jovens, ao mesmo tempo que facilita a participação das empresas na organização dos hackathons.
 
-#Parte técnica
+---
+
+# Parte técnica
 
 # Descoberta e Registro
 
