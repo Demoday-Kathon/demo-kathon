@@ -27,35 +27,34 @@ O Kathon é uma plataforma inovadora que conecta hackathons a jovens, com foco e
 
 ## Participação no Hackathon
 
-- **Funcionalidade**: Ambiente online para colaboração em tempo real (ferramentas integradas como GitHub, Figma, etc.).
 - **Funcionalidade**: Repositório de materiais e dados fornecidos pelas empresas para o desafio.
-- **Funcionalidade**: Sistema de acompanhamento do progresso (timeline do hackathon, notificações de etapas importantes).
+- **Funcionalidade**: Sistema de acompanhamento do progresso (Linha de tempo do hackathon, notificações de etapas importantes).
 
 ## Avaliação e Feedback
 
 - **Funcionalidade**: Sistema de submissão de projetos/protótipos.
 - **Funcionalidade**: Avaliação feita por representantes das empresas e especialistas.
-- **Funcionalidade**: Feedback detalhado dos jurados para os participantes.
+- **Funcionalidade**: Feedback de aprovação ou não aprovação.
 
 ## Premiação e Oportunidades
 
 - **Funcionalidade**: Anúncio dos vencedores, com transparência no processo de avaliação.
-- **Funcionalidade**: Integração para entrega dos prêmios (dinheiro, equipamentos, etc.).
-- **Funcionalidade**: Sistema de recrutamento/contratação direta para empresas interessadas nos participantes.
+- **Funcionalidade**: Integração para entrega dos prêmios (dinheiro, kits etc.). (Implementação futura)
 
 ## Engajamento Contínuo
 
 - **Funcionalidade**: Histórico de hackathons participados e premiações conquistadas.
-- **Funcionalidade**: Notificações personalizadas sobre novos hackathons que correspondam ao perfil do usuário.
+- **Funcionalidade**: Notificações sobre novos hackathons.
 - **Funcionalidade**: Sistema de gamificação (pontos, badges, ranking).
 
 ## Funcionalidades Extras
 
 - **Comunidade de aprendizado**: Espaço onde os jovens podem compartilhar conhecimento, colaborar e aprender antes e depois dos hackathons.
 - **Parcerias com empresas de ensino**: Integração com cursos ou certificações para preparar os jovens para desafios futuros.
-- **API para integração com ferramentas externas**: Para melhorar a experiência de desenvolvimento dos jovens durante os hackathons (ex.: ferramentas de desenvolvimento, prototipagem e design).
 
 Essa trilha foca em criar uma experiência fluida e atraente para os jovens, ao mesmo tempo que facilita a participação das empresas na organização dos hackathons.
+
+#Parte técnica
 
 # Descoberta e Registro
 
