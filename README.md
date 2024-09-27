@@ -58,11 +58,7 @@ Essa trilha foca em criar uma experiência fluida e atraente para os jovens, ao 
 
 # Parte técnica
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,git,mysql,postgres,firebase,nodejs,react,java,spring,aws,docker" />
-  </a>
-</p>
+!JavaScript !HTML5 !Java !CSS3 !MySQL !React ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
 
 # Descoberta e Registro
 
