@@ -8,11 +8,11 @@ O Kathon é uma plataforma inovadora que conecta hackathons a jovens, com foco e
 
 - **Funcionalidade**: Página inicial com explicação clara da proposta da plataforma e de seus benefícios.
 - **Funcionalidade**: Opção de login/cadastro com redes sociais ou e-mail.
-- 
+  
 ## Onboarding
 
 - **Funcionalidade**: Tutorial interativo para explicar como a plataforma funciona. (Gameficado)
-- **Funcionalidade**: Personalização do perfil (com habilidades, preferências de hackathons, projetos anteriores).
+- **Funcionalidade**: Personalização do perfil (com habilidades, preferências de hackathons, projetos anteriores). (Pontos para completar cadastro)
 
 ## Exploração dos Hackathons
 
