@@ -60,7 +60,7 @@ Essa trilha foca em criar uma experiência fluida e atraente para os jovens, ao 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,postgres,firebase,nodejs,react,ts,py,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=js,git,mysql,postgres,firebase,nodejs,react,java,spring,aws,docker" />
   </a>
 </p>
 
